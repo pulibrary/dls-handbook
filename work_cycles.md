@@ -16,32 +16,29 @@ will be described below.
 
 ## Meetings
 
-### Cycle Planning
+### Work Cycle Planning
 
 Occurs Monday at 3:00 PM eastern of Research & Maintenance week. Participants are
 members of DLS and the product owner for the upcoming project.
 
-**Work Cycle Board**:
-[Zenhub](https://app.zenhub.com/workspaces/dls-work-cycle-613924a1df719e0013b678b0/board?repos=98223070)
-
 #### Goals
 
-1. Determine the tickets which will be undertaken in the next two weeks. Give
-   them the 'work-cycle' label.
+1. Review the [Work Cycle Board](https://app.zenhub.com/workspaces/dls-work-cycle-613924a1df719e0013b678b0/board?repos=98223070)
+    and determine the tickets which will be undertaken in the
+    next two weeks. Give them the 'work-cycle' label.
 1. If this is a feature sprint, PO will identify one ticket which is a
    meaningful enhancement to an existing feature for users. Give it the
    work-cycle label.
 1. Determine if there's any research to be done to validate that the work can
    happen in the following two weeks.
 
+**Work Cycle Board**:
+[Zenhub](https://app.zenhub.com/workspaces/dls-work-cycle-613924a1df719e0013b678b0/board?repos=98223070)
 
 ### Standup
 
 Occurs daily at 3:30 PM Eastern when there isn't also a Cycle Planning or
 Wrap-up meeting. Participants are members of DLS.
-
-**Research & Maintenance Board**:
-[Zenhub](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007)
 
 #### Goals
 
@@ -51,7 +48,7 @@ Wrap-up meeting. Participants are members of DLS.
 1. If it's a friday, determine a runner for the following week.
 
 
-### Wrap-up
+### Work Cycle Wrap-up
 
 Occurs Friday of the last week of the work cycle at 3:00 PM. Participants are
 members of DLS and the product owner for the current project.
@@ -62,7 +59,10 @@ members of DLS and the product owner for the current project.
    happen.
 1. Share a demo if necessary, but the assumption is that product owners have
    been testing features as they've been implemented.
-1. Review the Maintenance & Research board, ensure everyone has tasks they can
+1. Review the [Maintenance & Research board](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007), ensure everyone has tasks they can
    work on in the following week. New maintenance or research tickets should be
    assigned the "maintenance / research" label so they appear on our maintenance
    board.
+
+**Research & Maintenance Board**:
+[Zenhub](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007)
