@@ -1,3 +1,6 @@
+---
+nav_order: 1
+---
 # Digital Library Services Handbook
 
 ## Documentation for general use
