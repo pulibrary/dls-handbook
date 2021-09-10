@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Digital Library Services Handbook
 nav_order: 1
 ---
 # Digital Library Services Handbook
