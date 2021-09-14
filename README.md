@@ -7,4 +7,5 @@ nav_order: 1
 
 ## Documentation for general use
 
+1. [Applications](/applications.md)
 1. [Work Cycles](/work_cycles.md)
