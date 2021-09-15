@@ -12,13 +12,18 @@
   * Product owner: [Kim](https://github.com/kelea99)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
-* Figgy - Samvera/Valkyrie app for managing ingest and workflow, generating IIIF
-  * figgy.princeton.edu, figgy-staging.princeton.edu
-  manifests for other apps
+* Figgy - Internal application for managing digital object ingest and metadata workflows and providing IIIF manifests to other applications
+  * https://figgy.princeton.edu, https://figgy-staging.princeton.edu
   * Github repository: https://github.com/pulibrary/figgy
   * [Figgy Zenhub board](https://app.zenhub.com/workspaces/figgystudio-5c06d2e24b5806bc2bfa890b/board)
   * Technical liaison: [Trey](https://github.com/tpendragon)
   * Product owner: [Kim](https://github.com/kelea99)
+  * Technical slack channel: #figgy
+  * User-centered slack channel: #digital_library
+* IIIF image server
+  * Technical liaison: TBD
+  * Product owner: TBD
+  * Github repository: https://github.com/pulibrary/serverless-iiif
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 * LAE-Blacklight - Latin American Ephemera frontend
@@ -32,7 +37,6 @@
   * Github repository: https://github.com/pulibrary/pulmap
   * [Pulmap Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
   * Technical liaison: [Eliot](https://github.com/eliotjordan)
-
 * PULFALight - Local instance of arclight
   * Github repository: https://github.com/pulibrary/pulfalight
   * [PULFALight Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
@@ -52,7 +56,7 @@
 Some applications cross teams or organizations and are central to our work.
 
 * [Lux](https://github.com/pulibrary/lux)
-* [PULBot](https://github.com/pulibrary/pulbot) and [Heaven](repository: https://github.com/pulibrary/heaven) - Slack bot for deployments
+* [PULBot](https://github.com/pulibrary/pulbot) and [Heaven](https://github.com/pulibrary/heaven) - Slack bot for deployments
   * Slack channels: #robots, #devs
 * [PUL-Solr](https://github.com/pulibrary/pul_solr) - Central repository of solr configs for our apps
   * Slack channel: #solr
