@@ -59,10 +59,10 @@ members of DLS and the product owner for the current project.
    happen.
 1. Share a demo if necessary, but the assumption is that product owners have
    been testing features as they've been implemented.
-1. Review the [Maintenance & Research board](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007), ensure everyone has tasks they can
-   work on in the following week. New maintenance or research tickets should be
-   assigned the "maintenance / research" label so they appear on our maintenance
-   board.
+1. Review the [Maintenance & Research board](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007)
+   * Look at the inbox to ensure any newly created maintenance tickets from
+   running or reports are well understood.
+   * Ensure everyone has tasks they can work on in the following week. New maintenance or research tickets should be assigned the "maintenance / research" label so they appear on our maintenance board. 
 
 **Research & Maintenance Board**:
 [Zenhub](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007)
