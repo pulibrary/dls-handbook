@@ -9,6 +9,7 @@ nav_order: 1
 
 1. [Applications](/applications.md)
 1. [Work Cycles](/work_cycles.md)
+1. [Product Owners](/product_owners.md)
 
 ## Documentation most useful to members of our team
 
