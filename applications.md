@@ -2,50 +2,59 @@
 
 [Architecture diagram](https://docs.google.com/drawings/d/1qqHoceL4nahv8wmhK_QltL8f1StdBJ5GYFpIa6JQ3PA/edit)
 
-## in Production
-
-* DPUL (Digital PUL) - Spotlight exhibits for showcasing Figgy content
-  * https://dpul.princeton.edu/, https://dpul-staging.princeton.edu/
-  * Github repository: https://github.com/pulibrary/dpul
-  * [DPUL Zenhub board](https://app.zenhub.com/workspaces/dpul-5cc9dbb2262a972347170639/board?repos=49439415&showEstimates=false&showReleases=false)
+## DPUL (Digital PUL)
+Spotlight exhibits for showcasing Figgy content
+  * [DPUL production](https://dpul.princeton.edu/), [DPUL staging](https://dpul-staging.princeton.edu/)
+  * [Github repository](https://github.com/pulibrary/dpul)
+  * [Zenhub board](https://app.zenhub.com/workspaces/dpul-5cc9dbb2262a972347170639/board?repos=49439415&showEstimates=false&showReleases=false)
   * Technical liaison: [Anna](https://github.com/hackmastera)
   * Product owner: [Kim](https://github.com/kelea99)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
-* Figgy - Internal application for managing digital object ingest and metadata workflows and providing IIIF manifests to other applications
-  * https://figgy.princeton.edu, https://figgy-staging.princeton.edu
-  * Github repository: https://github.com/pulibrary/figgy
-  * [Figgy Zenhub board](https://app.zenhub.com/workspaces/figgystudio-5c06d2e24b5806bc2bfa890b/board)
+
+## Figgy
+Internal application for managing digital object ingest and metadata workflows and providing IIIF manifests to other applications
+  * [Figgy production](https://figgy.princeton.edu), [Figgy staging](https://figgy-staging.princeton.edu)
+  * [Github repository](https://github.com/pulibrary/figgy)
+  * [Zenhub board](https://app.zenhub.com/workspaces/figgystudio-5c06d2e24b5806bc2bfa890b/board)
   * Technical liaison: [Trey](https://github.com/tpendragon)
   * Product owner: [Kim](https://github.com/kelea99)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
-* IIIF image server
+
+## IIIF image server
   * Technical liaison: TBD
   * Product owner: TBD
-  * Github repository: https://github.com/pulibrary/serverless-iiif
+  * [Github repository](https://github.com/pulibrary/serverless-iiif)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
-* LAE-Blacklight - Latin American Ephemera frontend
-  * https://lae.princeton.edu
-  * Github repository: https://github.com/pulibrary/lae-blacklight
+
+## LAE-Blacklight
+Latin American Ephemera frontend
+  * [LAE production](https://lae.princeton.edu)
+  * [Github repository](https://github.com/pulibrary/lae-blacklight)
   * Technical liaison: [Trey](https://github.com/tpendragon), transfer to [Eliot](https://github.com/eliotjordan)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
-* Maps Portal, aka PULMap - GeoBlacklight app for maps and geo data discovery and access
-  * https://maps.princeton.edu
-  * Github repository: https://github.com/pulibrary/pulmap
-  * [Pulmap Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
+
+## Maps Portal, aka PULMap
+GeoBlacklight app for maps and geo data discovery and access
+  * [PULMap production](https://maps.princeton.edu)
+  * [Github repository](https://github.com/pulibrary/pulmap)
+  * [Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
   * Technical liaison: [Eliot](https://github.com/eliotjordan)
-* PULFALight - Local instance of arclight
-  * Github repository: https://github.com/pulibrary/pulfalight
-  * [PULFALight Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
+
+## Finding Aids, aka PULFALight
+Local instance of arclight
+  * [Finding Aids production](https://findingaids.princeton.edu)
+  * [Github repository](https://github.com/pulibrary/pulfalight)
+  * [Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
   * Technical liaison: [James](https://github.com/jrgriffiniii)
   * Product owners: [Faith](https://github.com/faithc) and [Amanda](https://github.com/apferrar)
   * Slack channel: #pulfalight
 
 
-## Our tooling
+## Our Tooling Repositories
 * [dls-handbook](https://github.com/pulibrary/dls-handbook)
 * [dls-github-labeler](https://github.com/pulibrary/dls-github-labeler)
 * [rails-template](https://github.com/pulibrary/rails-template)
@@ -67,7 +76,7 @@ Some applications cross teams or organizations and are central to our work.
 * [PUDL](http://pudl.princeton.edu/) - the precursor to dpul; migration to figgy is in-progress
     * METS-creation logic at https://github.com/pulibrary/pudl-mets and https://github.com/pulibrary/pudl_mets_compiler
 
-# Related Applications and Services
+## Related Applications and Services
 * [CAS](https://www.princeton.edu/cas) - authentication
 * [GeoServer](http://geoserver.org/) - Geo data server
 * [Cantaloupe](https://github.com/medusa-project/cantaloupe) - IIIF image API server
