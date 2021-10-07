@@ -16,9 +16,10 @@ basis.
   effort.
 * Participate during relevant work cycles by attending the planning meeting and
   Friday wrap-up meeting when the PO's application is a focus of the cycle.
-* Be available on slack during a relevant work cycle to answer questions and
+* Remain easy to contact on Slack during a relevant work cycle to answer
+  questions and give feedback.
   give feedback.
-* Bring in DLS developers when discussing new features or changes to the
+* Bring in DLS developers when discussing new features or potential changes to the
   existing system with stakeholders. Prioritize these conversations when a work
   cycle that can address these is likely to happen soon.
 
