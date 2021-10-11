@@ -49,7 +49,7 @@ Local instance of arclight
   * [Finding Aids production](https://findingaids.princeton.edu)
   * [Github repository](https://github.com/pulibrary/pulfalight)
   * [Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
-  * Technical liaison: [James](https://github.com/jrgriffiniii)
+  * Technical liaison: [Shaun](https://github.com/sdellis)
   * Product owners: [Faith](https://github.com/faithc) and [Amanda](https://github.com/apferrar)
   * Slack channel: #pulfalight
 
@@ -77,6 +77,7 @@ Some applications cross teams or organizations and are central to our work.
     * METS-creation logic at https://github.com/pulibrary/pudl-mets and https://github.com/pulibrary/pudl_mets_compiler
 
 ## Related Applications and Services
+
 * [CAS](https://www.princeton.edu/cas) - authentication
 * [GeoServer](http://geoserver.org/) - Geo data server
 * [Cantaloupe](https://github.com/medusa-project/cantaloupe) - IIIF image API server
