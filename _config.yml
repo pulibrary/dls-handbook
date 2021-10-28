@@ -5,3 +5,7 @@ readme_index:
   enabled:          true
   remove_originals: false
   with_frontmatter: true
+aux_links:
+  "DLS Handbook on GitHub":
+    - "//github.com/pulibrary/dls-handbook"
+aux_links_new_tab: true
