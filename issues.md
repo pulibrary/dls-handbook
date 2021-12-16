@@ -76,6 +76,6 @@ determine if an issue is "ready."
 
 ### Feature issues
 * Title is clear and concise
-* Presents a user story: "As a __ I need __ in order to __"
+* Description includes a user story: "As a __ I need __ in order to __"
 * Provides actual or sample data: Do we have a case to develop and test against?
 * Clear acceptance criteria: "This issue can be closed when the following is true"
