@@ -23,9 +23,10 @@ Internal application for managing digital object ingest and metadata workflows a
   * User-centered slack channel: #digital_library
 
 ## IIIF image server
+  * Production host name: iiif-cloud.princeton.edu
+  * [Github repository](https://github.com/pulibrary/serverless-iiif)
   * Technical liaison: TBD
   * Product owner: TBD
-  * [Github repository](https://github.com/pulibrary/serverless-iiif)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 
