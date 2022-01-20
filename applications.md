@@ -73,8 +73,6 @@ Some applications cross teams or organizations and are central to our work.
   playbooks for all of our server provisioning
 * [Valkyrie](https://github.com/samvera-labs/valkyrie) - samvera persistence
   layer on which Figgy is built
-* [PUDL](http://pudl.princeton.edu/) - the precursor to dpul; migration to figgy is in-progress
-    * METS-creation logic at https://github.com/pulibrary/pudl-mets and https://github.com/pulibrary/pudl_mets_compiler
 
 ## Related Applications and Services
 
