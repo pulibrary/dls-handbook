@@ -23,9 +23,10 @@ Internal application for managing digital object ingest and metadata workflows a
   * User-centered slack channel: #digital_library
 
 ## IIIF image server
+  * Production host name: iiif-cloud.princeton.edu
+  * [Github repository](https://github.com/pulibrary/serverless-iiif)
   * Technical liaison: TBD
   * Product owner: TBD
-  * [Github repository](https://github.com/pulibrary/serverless-iiif)
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 
@@ -43,6 +44,15 @@ GeoBlacklight app for maps and geo data discovery and access
   * [Github repository](https://github.com/pulibrary/pulmap)
   * [Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
   * Technical liaison: [Eliot](https://github.com/eliotjordan)
+  * Technical slack channel: #geo
+  * User-centered slack channel: #geo
+
+## TiTiler AWS
+Amazon CDK configurations for deploying TiTiler, a map tile server
+  * Production host name: map-tiles.princeton.edu
+  * [Github repository](https://github.com/pulibrary/titiler-aws)
+  * Technical slack channel: #geo
+  * User-centered slack channel: #geo
 
 ## Finding Aids, aka PULFALight
 Local instance of arclight
@@ -73,8 +83,6 @@ Some applications cross teams or organizations and are central to our work.
   playbooks for all of our server provisioning
 * [Valkyrie](https://github.com/samvera-labs/valkyrie) - samvera persistence
   layer on which Figgy is built
-* [PUDL](http://pudl.princeton.edu/) - the precursor to dpul; migration to figgy is in-progress
-    * METS-creation logic at https://github.com/pulibrary/pudl-mets and https://github.com/pulibrary/pudl_mets_compiler
 
 ## Related Applications and Services
 
