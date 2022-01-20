@@ -44,11 +44,15 @@ GeoBlacklight app for maps and geo data discovery and access
   * [Github repository](https://github.com/pulibrary/pulmap)
   * [Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
   * Technical liaison: [Eliot](https://github.com/eliotjordan)
+  * Technical slack channel: #geo
+  * User-centered slack channel: #geo
 
 ## TiTiler AWS
 Amazon CDK configurations for deploying TiTiler, a map tile server
-  * production: map-tiles.princeton.edu
+  * Production host name: map-tiles.princeton.edu
   * [Github repository](https://github.com/pulibrary/titiler-aws)
+  * Technical slack channel: #geo
+  * User-centered slack channel: #geo
 
 ## Finding Aids, aka PULFALight
 Local instance of arclight
