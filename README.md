@@ -18,6 +18,6 @@ nav_order: 1
 1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
 1. [Development Practice](/development_practice.md)
 1. [Improving User Experience](/ux_research.md)
-1. [Part-time Undergraduate Developers](part_time_undergraduate_developers.md)
+1. [Student Software Developers](student_software_developers.md)
 1. [Vacation](/vacation.md)
 1. [Tooling](/tooling.md)
