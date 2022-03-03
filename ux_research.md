@@ -36,13 +36,24 @@ We can't improve what we are not measuring. We measure the usability of apps and
 We will want to include tasks that were used in past testing scripts if we have reason to believe the  experience has changed. By re-testing previous tasks, we can measure how effective (or not) our improvements are.
 
 ## Usability Testing
-We test usability for the purpose of improving our software systems and interfaces. Our goal is to learn as much as we can about how useful our software is with as little overhead as possible, so we lean towards a less formal testing process. All data collected is used internally, and because DLS has no intention of publishing the findings, we do not have to obtain the approval of an Institutional Review Board (IRB). 
+We test usability for the purpose of improving our software systems and interfaces. Our goal is to learn as much as we can about how useful our software is with as little overhead as possible, so we lean towards a less formal testing process. All data collected is used internally, and because DLS has no intention of publishing the findings, we do not have to obtain the approval of an Institutional Review Board (IRB).
 
-There are many methods for studying usability, but the most basic and useful is Usability Testing, which has 3 components:
+There are many methods for studying usability, but the most basic and useful is Usability Testing, which is comprised of the following effort:
 
-- Recruit representative users.
-- Ask users to perform representative tasks with the design.
-- Observe (and sometimes record) what the users do, where they succeed, and where they have difficulties with the user interface. The only interaction we should have with the user is to ask them to complete a task, or ask them to describe their thinking and reasoning out loud as they interact with the UI to work through the task.
+- [ ] Determine the top 1-3 user goals for the application you're testing.
+- [ ] Determine what else the research team would like to learn from a round of usability testing.
+- [ ] Gather tasks from previous rounds of testing to determine if recent work on improving the experience has been effective.
+- [ ] Script tasks for the user to complete during the test session based on the objectives in previous three  checkboxes.
+- [ ] Recruit and schedule representative users.
+- [ ] Ask users to complete representative tasks with the design.
+- [ ] Observe (and sometimes record) what the users do, where they succeed, and where they have difficulties with the user interface. The only interaction we should have with the user is to ask them to complete a task, or ask them to describe their thinking and reasoning out loud as they interact with the UI to work through the task.
+- [ ] Review recordings and notes to document which tasks were completed or not completed. Make notes of why the user may have failed to finish each incomplete task.
+- [ ] Write a report summarizing issues encountered and file in the GDrive Project Folder for Usability Tests.
+- [ ] Create GitHub tickets for interface issues identified in the report. Tag the issue with the _User Experience_ label. Suggest solutions in the discussion section of the issue.
+- [ ] If the team needs stakeholder approval to alter a UI piece, or to implement a preferred solution, create a "highlight reel" to share with stakeholders demonstrating the users' frustrations so stakeholders better understand the issue and empathize with the user.
+- [ ] Determine the preferred solution as a team.
+- [ ] Implement preferred solution.
+- [ ] Re-test during the next Usability Testing cycle to ensure the change improves users ability to complete the task.
 
 It's important to test users individually and let them solve any problems on their own. If we help them or direct their attention to any particular part of the screen, we have contaminated the test results.
 
@@ -74,7 +85,7 @@ doesn’t give away the answer.
 
 ### Recording Observations
 It’s important to capture test sessions for future analysis, comparison, and evidence. To ensure that the relevant information is captured, we recommend the participation of a facilitator and a notetaker (in addition to the test participant) for each session to save time and allow for smooth transitions between tasks.
-For anything other than the most casual intercept studies, we should record each session as it captures the most evidence for building an argument for change. For this reason, participants must provide consent for us to record them. The best way to do this is to read the user a consent form (sample) and ask them for their consent to the terms on camera. This approach ensures that their consent stays with the recording and does not get lost.
+For anything other than the most casual intercept studies, we should record each session as it captures the most evidence for building an argument for change. For this reason, participants must provide consent for us to record them. The best way to do this is to read the user a consent form ([sample](https://docs.google.com/document/d/1S2E1QbVDIhCjc8UOrurdP8aus3r06WMHDuR1d_HNcNs/edit?usp=sharing)) and ask them for their consent to the terms on camera. This approach ensures that their consent stays with the recording and does not get lost.
 
 Each test will produce a set of artifacts. Typical artifacts are test scripts, score cards, session videos, transcripts, and recommendation reports. For any applications or features that require significant changes to fix, it is helpful to compile a “summary reel” that highlights user failures and can be shared with stakeholders to demonstrate evidence of the problem.
 Testing artifacts should be well organized and live in the following path: [GDrive > DLS > Project Supporting Materials > {Project name} > UX Artifacts > {Date of Test + Feature Tested}](https://drive.google.com/drive/u/1/folders/1S671v6VEBfKaXPI2eSesEDSmEbCQ4f4s).
