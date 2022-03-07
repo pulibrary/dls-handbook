@@ -19,3 +19,4 @@ nav_order: 1
 1. [Development Practice](/development_practice.md)
 1. [Part-time Undergraduate Developers](part_time_undergraduate_developers.md)
 1. [Vacation](/vacation.md)
+1. [Tooling](/tooling.md)
