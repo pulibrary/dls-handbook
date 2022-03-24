@@ -12,6 +12,7 @@ nav_order: 1
 1. [Work Cycles](/work_cycles.md)
 1. [Product Owners](/product_owners.md)
 1. [Issues](/issues.md)
+1. [Administrative Resources](/admin_resources.md)
 
 ## Documentation most useful to members of our team
 
