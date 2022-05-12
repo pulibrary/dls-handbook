@@ -11,8 +11,8 @@ will be described below.
 |                        | Monday         | Tuesday | Wednesday | Thursday | Friday  |
 | ---------------------- | -------------- | ------- | --------- | -------- | ------- |
 | Research & Maintenance | Cycle Planning | Standup | Standup   | Standup  | Standup |
-| Work Cycle  (Week 2)   | Standup        | Standup | Standup   | Standup  | Standup |
-| Work Cycle (Week 3)    | Standup        | Standup | Standup   | Standup  | Wrap-up |
+| Work Cycle (Week 1)    | Standup        | Standup | Standup   | Standup  | Standup |
+| Work Cycle (Week 2)    | Standup        | Standup | Standup   | Standup  | Wrap-up |
 
 ## Meetings
 
