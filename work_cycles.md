@@ -2,8 +2,8 @@
 
 ## Development Rhythm
 
-Our team works in a 3 week rhythm. The first week is Maintenance & Research and
-the following two weeks are work cycle weeks.
+Our team works in a 3 week rhythm. Work cycles are two-weeks long, and every third
+week is a maintenance/research week.
 
 The following table represents our cycle-related meeting schedule. Each meeting
 will be described below.
@@ -11,8 +11,8 @@ will be described below.
 |                        | Monday         | Tuesday | Wednesday | Thursday | Friday  |
 | ---------------------- | -------------- | ------- | --------- | -------- | ------- |
 | Research & Maintenance | Cycle Planning | Standup | Standup   | Standup  | Standup |
-| Cycle Work (Week 2)    | Standup        | Standup | Standup   | Standup  | Standup |
-| Cycle Work (Week 3)    | Standup        | Standup | Standup   | Standup  | Wrap-up |
+| Work Cycle (Week 1)    | Standup        | Standup | Standup   | Standup  | Standup |
+| Work Cycle (Week 2)    | Standup        | Standup | Standup   | Standup  | Wrap-up |
 
 ## Meetings
 
@@ -62,7 +62,7 @@ members of DLS and the product owner for the current project.
 1. Review the [Maintenance & Research board](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007)
    * Look at the inbox to ensure any newly created maintenance tickets from
    running or reports are well understood.
-   * Ensure everyone has tasks they can work on in the following week. New maintenance or research tickets should be assigned the "maintenance / research" label so they appear on our maintenance board. 
+   * Ensure everyone has tasks they can work on in the following week. New maintenance or research tickets should be assigned the "maintenance / research" label so they appear on our maintenance board.
 
 **Research & Maintenance Board**:
 [Zenhub](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007)
