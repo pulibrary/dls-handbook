@@ -41,6 +41,7 @@ The tools we use to configure, support, and monitor our applications
   * Try [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) for markdown-based diagrams that will live on github.
 * For __Browser testing__ we have a few licenses for BrowserStack.
 * __Other tools__ used by members of our team include
+  * [thoughtbot's laptop script](https://github.com/thoughtbot/laptop) for laptop setup
   * [thoughtbot's dotfiles](https://github.com/thoughtbot/dotfiles)
     * which uses [rcm dotfiles management](https://github.com/thoughtbot/rcm)
   * zsh and [oh my zsh](https://ohmyz.sh/)
