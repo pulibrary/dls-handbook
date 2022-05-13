@@ -1,5 +1,9 @@
 # Development Tooling
 
+In addition to this handbook page, we also have a document [How-to for core and
+common
+tasks](https://docs.google.com/document/d/1PRgujNUnLNklfXjWeQ4TeyxG3sULDCVfKR1x29HH9j0/edit#) which we encourage team members to add to.
+
 ## Standard DLS development tools
 Make sure these are installed for your individual setup. Many / most of these are also used on other PUL IT teams
 
