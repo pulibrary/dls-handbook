@@ -15,7 +15,9 @@ Student Software Developers are paid biweekly. Timesheet and pay schedules are a
 
 Student Software Developer schedules are tracked in a shared calendar called
 "DLS Student Developers". DLS staff should request access to view and manage
-this calendar from the manager of DLS.
+this calendar from the manager of DLS. The account and password for this
+exchange account is in LastPass under `Shared-ITIMS-Passwords/DLS/DLSStudentDevs
+email`, but 2FA is set up for use by the current manager of DLS.
 
 During the summer Student Software Developers work full-time hours. During the
 school year they work part-time when classes are in session. Students can work
