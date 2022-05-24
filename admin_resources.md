@@ -3,8 +3,7 @@
 ## Leave (vacation / personal / sick time)
 * We expect regular hours, but we also know that life happens
 * For appointments and interruptions, just let people know on Slack
-* For vacation, request from supervisor. For personal and sick time, just notify.
-  * Email supervisor to confirm days/times and create a record.
+* For vacation, please review the handbook page on [Vacation](vacation.md)
 * Put it on your own Outlook calendar
 * Enter it in [self service](http://www.princeton.edu/hr/progserv/sds/applications/selfservice.html)
 * Mention to colleagues the day before or as needed just so they don't wonder where you are.
