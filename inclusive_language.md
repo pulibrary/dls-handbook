@@ -4,14 +4,14 @@ Digital Library Services strives to use inclusive language in all aspects of our
 
 Inclusive language avoids biases, slang, or expressions that discriminate against groups of people based on race, gender, or socioeconomic status. DLS actively seeks collaboration in identifying and addressing non-inclusive and harmful language that may appear in our work and artifacts.
 
-To report instances of non-inclusive language to DLS, you may ... ?
+If you encounter non-inclusive language in the course of your work, open an issue, submit a pull request, mention it on slack, or add it to a standup agenda.
 
 The following table includes examples of alternate labels DLS has adopted for some common non-inclusive or harmful terms:
 
 | Depricated             | Inclusive         |
 | ---------------------- | -------------- |
-| Whitelist              | 	Allowlist |
-| Blacklist              | (or ignore_list, excluded_x, skipped_x) as appropriate for the context   |
+| Whitelist              | Allowlist |
+| Blacklist              | Denylist (or ignore_list, excluded_x, skipped_x) as appropriate for the context   |
 | Master/slave           | primary/replica/         |
 | Master branch          | main |
 | Grandfathered          | Legacy status |
