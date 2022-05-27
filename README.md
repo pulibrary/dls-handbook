@@ -22,3 +22,4 @@ nav_order: 1
 1. [Student Software Developers](student_software_developers.md)
 1. [Vacation](/vacation.md)
 1. [Tooling](/tooling.md)
+1. [Inclusive Language](/inclusive_language.md)
