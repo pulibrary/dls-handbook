@@ -5,6 +5,13 @@ to refresh and maintain a healthy work/life balance. It's encouraged to take the
 time you've accrued, and if at any point you feel you're unable to do so we will
 work as a team to improve our process to enable it.
 
+## What expectations are there of me while I'm on vacation?
+
+You are expected to be on vacation. Our team has no expectations that you'll
+answer email, respond to slack, read messages, or otherwise interact with work
+while on vacation. We believe your time away improves your time in - please take
+it and make the most out of it you can.
+
 ## Vacation Policy Resources
 
 Princeton's vacation policies are documented here: [Vacation
