@@ -1,4 +1,4 @@
-# DLS Applications
+# Applications
 
 [Architecture diagram](https://docs.google.com/drawings/d/1qqHoceL4nahv8wmhK_QltL8f1StdBJ5GYFpIa6JQ3PA/edit)
 
