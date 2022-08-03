@@ -1,4 +1,4 @@
-# DLS Work Cycles
+# Work Cycles
 
 ## Development Rhythm
 

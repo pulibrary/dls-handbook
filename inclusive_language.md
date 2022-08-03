@@ -1,4 +1,4 @@
-# DLS Intent on Inclusive Language
+# Inclusive Language
 
 Digital Library Services strives to use inclusive language in all aspects of our work. This includes, but is not limited to, language used in communications, code, documentation, workflows, and 3rd party software selection.
 
