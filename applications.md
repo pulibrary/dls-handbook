@@ -87,7 +87,8 @@ Some applications cross teams or organizations and are central to our work.
 ## Related Applications and Services
 
 * [CAS](https://www.princeton.edu/cas) - authentication
-* [GeoServer](http://geoserver.org/) - Geo data server
+* [GeoServer](http://geoserver.org/) - Geo data server, in production at
+  [https://geoserver.princeton.edu/geoserver/web/](https://geoserver.princeton.edu/geoserver/web/)
 * [Cantaloupe](https://github.com/medusa-project/cantaloupe) - IIIF image API server
 * Isilon - storage
 * Nginx+ - load balancer
