@@ -5,6 +5,20 @@ nav_order: 1
 ---
 # Digital Library Services Handbook
 
+Welcome! The goal of this handbook is to provide insight into how DLS at
+Princeton Library performs our work, the promises we make to our collaborators,
+and the expectations we have of them. We also use this as a place to
+document common practices and tools we've found useful in our team.
+
+If you read through this and find it confusing, are seeking more information, or
+just generally have feedback we'd love to hear from you! You can contact us one
+of the following ways:
+
+- Email us:
+    [digital-library@princeton.libanswers.com](mailto:digital-library@princeton.libanswers.com)
+- Create a [Github issue](https://github.com/pulibrary/dls-handbook/issues)
+- Message us in #digital_library in PULibrary's Slack
+
 ## Documentation for general use
 
 1. [Applications](/applications.md) - Information about applications in the DLS portfolio
