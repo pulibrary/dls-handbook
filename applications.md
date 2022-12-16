@@ -44,6 +44,7 @@ GeoBlacklight app for maps and geo data discovery and access
   * [Github repository](https://github.com/pulibrary/pulmap)
   * [Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
   * Technical liaison: [Eliot](https://github.com/eliotjordan)
+  * Product owner: [Kim](https://github.com/kelea99)
   * Technical slack channel: #geo
   * User-centered slack channel: #geo
 
