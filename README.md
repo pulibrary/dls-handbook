@@ -10,6 +10,9 @@ Princeton Library performs our work, the promises we make to our collaborators,
 and the expectations we have of them. We also use this as a place to
 document common practices and tools we've found useful in our team.
 
+We also have a handbook for cross-team norms and technical practice at
+[https://github.com/pul-it-handbook](https://github.com/pul-it-handbook).
+
 If you read through this and find it confusing, are seeking more information, or
 just generally have feedback we'd love to hear from you! You can contact us one
 of the following ways:
