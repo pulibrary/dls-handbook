@@ -8,17 +8,17 @@ week is a maintenance/research week.
 The following table represents our cycle-related meeting schedule. Each meeting
 will be described below.
 
-|                        | Monday         | Tuesday | Wednesday | Thursday | Friday  |
-| ---------------------- | -------------- | ------- | --------- | -------- | ------- |
-| Research & Maintenance | Cycle Planning | Standup | Standup   | Standup  | Standup |
-| Work Cycle (Week 1)    | Standup        | Standup | Standup   | Standup  | Standup |
-| Work Cycle (Week 2)    | Standup        | Standup | Standup   | Standup  | Wrap-up |
+|                        | Monday         | Tuesday        | Wednesday | Thursday | Friday  |
+| ---------------------- | -------------- | -------        | --------- | -------- | ------- |
+| Research & Maintenance | Wrap-up        | Cycle Planning | Standup   | Standup  | Standup |
+| Work Cycle (Week 1)    | Standup        | Standup        | Standup   | Standup  | Standup |
+| Work Cycle (Week 2)    | Standup        | Standup        | Standup   | Standup  | Standup |
 
 ## Meetings
 
 ### Work Cycle Planning
 
-Occurs Monday at 3:00 PM eastern of Research & Maintenance week. Participants are
+Occurs Tuesday at 3:00 PM eastern of Research & Maintenance week. Participants are
 members of DLS and the product owner for the upcoming project.
 
 #### Goals
@@ -50,8 +50,11 @@ Wrap-up meeting. Participants are members of DLS.
 
 ### Work Cycle Wrap-up
 
-Occurs Friday of the last week of the work cycle at 3:00 PM. Participants are
+Occurs Monday following the last week of the work cycle at 3:00 PM. Participants are
 members of DLS and the product owner for the current project.
+
+We moved this meeting from Friday to make it easier for team members to take off
+Fridays for vacation.
 
 #### Goals
 
