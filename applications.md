@@ -2,6 +2,14 @@
 
 [Architecture diagram](https://docs.google.com/drawings/d/1qqHoceL4nahv8wmhK_QltL8f1StdBJ5GYFpIa6JQ3PA/edit)
 
+## AbID
+Absolute ID management Application. Generates absolute identifiers and eases
+barcode entry for physical items managed in aspace.
+  * [AbID production](https://abid.princeton.edu/), [AbID staging](https://abid-staging.princeton.edu/)
+  * [GitHub repository](https://github.com/pulibrary/abid)
+  * Technical slack channel: #pulfalight-tech
+  * User-centered slack channel: #pulfalight
+
 ## DPUL (Digital PUL)
 Spotlight exhibits for showcasing Figgy content
   * [DPUL production](https://dpul.princeton.edu/), [DPUL staging](https://dpul-staging.princeton.edu/)
