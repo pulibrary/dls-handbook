@@ -61,7 +61,7 @@ Local instance of arclight
   * [Github repository](https://github.com/pulibrary/pulfalight)
   * [Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
   * Technical liaison: [Shaun](https://github.com/sdellis)
-  * Product owners: [Faith](https://github.com/faithc) and [Amanda](https://github.com/apferrar)
+  * Product owners: [Faith](https://github.com/faithc) and [Christa](https://github.com/ccleeton)
   * Slack channel: #pulfalight
 
 
