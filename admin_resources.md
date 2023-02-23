@@ -18,7 +18,6 @@
 * Use [Concur](https://princeton.edu/concur) for booking travel and submitting expense reports
   * Can also use third-party sites to book travel if that makes sense, but it'll take more data entry to put in your expense report
 * [Princeton’s travel site](http://travel.princeton.edu/)
-* [[https://clubquartershotels.com/]] for discounted rooms in some cities
 
 ## General
 * [HR Self-Service](http://www.princeton.edu/hr/progserv/sds/applications/selfservice.html) for viewing paystubs, deductions, benefits, sick/vacation reporting & balances
