@@ -28,3 +28,4 @@
 * [Connecting](https://pulstaff.princeton.edu/guidelines/slack-guidelines/), the Library Intranet, includes strategic planning info, blog posts, committee reports, and library policies.
 * [Library Staff](https://library.princeton.edu/staff) links and resources
   maintained by the library.
+* Library-wide [confluence wiki](https://lib-confluence.princeton.edu/), used to manage documentation, policies, committee materials, project documents, and other internal documents.
