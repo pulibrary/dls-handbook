@@ -24,14 +24,15 @@ of the following ways:
 
 ## Our Vision
 
-Princeton University Library has defined its [Mission, Vision, and North Star
-Statements](https://library.princeton.edu/about) and DLS has worked with its
-partners to define the Digital Library's part in the wider vision and how we can
-best move it forward. It is as follows:
+DLS has worked with its partners to define a vision for the Digital Library in
+the context of Princeton University Library's [Mission, Vision, and North Star
+Statements](https://library.princeton.edu/about) to help us situate
+our work within the broader vision and move it forward. It is as
+follows:
 
 Princeton University's Digital Library will become an inspiring environment for global communities to engage with diverse collections. To support this goal, our Digital Library platform will enable easy ingest, long-term preservation, joyful discovery, and transformative use of digital materials.
 
-DLS will prioritize development and processes in such a way to have the most impact towards this vision, and we encourage our partners and stakeholders to imagine ways for us to get there together.
+DLS will prioritize development work and organization processes in such a way as to have the most impact towards this vision, and we encourage our partners and stakeholders to imagine ways for us to get there together.
 
 ## Documentation for general use
 
