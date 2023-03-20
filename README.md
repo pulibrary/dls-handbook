@@ -14,8 +14,8 @@ We also have a handbook for cross-team norms and technical practice at
 [https://github.com/pulibrary/pul-it-handbook](https://github.com/pulibrary/pul-it-handbook).
 
 If you read through this and find it confusing, are seeking more information, or
-just generally have feedback we'd love to hear from you! You can contact us one
-of the following ways:
+just generally have feedback we'd love to hear from you! You can contact us in the 
+following ways:
 
 - Email us:
     [digital-library@princeton.libanswers.com](mailto:digital-library@princeton.libanswers.com)
