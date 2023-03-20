@@ -26,7 +26,7 @@ of the following ways:
 
 DLS has worked with its partners to define a vision for the Digital Library in
 the context of Princeton University Library's [Mission, Vision, and North Star
-Statements](https://library.princeton.edu/about) to help us situate
+Statements](https://library.princeton.edu/about) that will help us situate
 our work within the broader vision and move it forward. It is as
 follows:
 
