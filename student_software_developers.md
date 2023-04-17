@@ -29,3 +29,12 @@ needed in communication with their supervisor.
 ## Hiring and Onboarding
 
 Relevant documentation can be found in the [Student hiring Drive folder](https://drive.google.com/drive/u/2/folders/1MTfYgMHMb4FZpUQDqsLWasTqm6QMrdoe).
+
+## Current and Former DLS Student Software Developers
+
+In appreciation for the amazing students who have worked with members of our team and contributed so much to our projects!
+
+### 2022-23
+* Michelle Liu
+* Taylor Yamashita
+* Thanya Begum
