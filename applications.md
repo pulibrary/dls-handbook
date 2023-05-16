@@ -30,14 +30,6 @@ Internal application for managing digital object ingest and metadata workflows a
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 
-## IIIF image server
-  * Production host name: iiif-cloud.princeton.edu
-  * [Github repository](https://github.com/pulibrary/serverless-iiif)
-  * Technical liaison: TBD
-  * Product owner: TBD
-  * Technical slack channel: #figgy
-  * User-centered slack channel: #digital_library
-
 ## LAE-Blacklight
 Latin American Ephemera frontend
   * [LAE production](https://lae.princeton.edu)
@@ -56,13 +48,6 @@ GeoBlacklight app for maps and geo data discovery and access
   * Technical slack channel: #geo
   * User-centered slack channel: #geo
 
-## TiTiler AWS
-Amazon CDK configurations for deploying TiTiler, a map tile server
-  * Production host name: map-tiles.princeton.edu
-  * [Github repository](https://github.com/pulibrary/titiler-aws)
-  * Technical slack channel: #geo
-  * User-centered slack channel: #geo
-
 ## Finding Aids, aka PULFALight
 Local instance of arclight
   * [Finding Aids production](https://findingaids.princeton.edu)
@@ -78,6 +63,36 @@ Local instance of arclight
 * [dls-github-labeler](https://github.com/pulibrary/dls-github-labeler)
 * [rails-template](https://github.com/pulibrary/rails-template)
 
+## Cloud Services
+
+We run a few services in the cloud, the following has information on where the
+code is and which cloud they run on.
+
+### IIIF image server
+  * Production host name: iiif-cloud.princeton.edu
+  * Cloud Service: AWS
+  * [Github repository](https://github.com/pulibrary/serverless-iiif)
+  * Technical liaison: TBD
+  * Product owner: TBD
+  * Technical slack channel: #figgy
+  * User-centered slack channel: #digital_library
+
+### TiTiler AWS
+Amazon CDK configurations for deploying TiTiler, a map tile server
+  * Production host name: map-tiles.princeton.edu
+  * Cloud Service: AWS
+  * [Github repository](https://github.com/pulibrary/titiler-aws)
+  * Technical slack channel: #geo
+  * User-centered slack channel: #geo
+
+### Cloud Preservation Fixity Checker
+Google cloud function to check the fixity for Figgy's preserved files and report
+back.
+  * Production host name: n/a
+  * Cloud Service: Google
+  * [Github repository](https://github.com/pulibrary/figgy/tree/main/cloud_fixity)
+  * Technical slack channel: #figgy
+  * User-centered slack channel: #digital_library
 
 ## Cross-team Applications
 
