@@ -1,4 +1,4 @@
-# Triaging Issues
+# Issue Prioritization and Specification
 
 ## Issue Lifecycle
 
@@ -41,7 +41,7 @@ DLS should then do the following:
    delayed until then), and pin it in Zenhub. Move it to the "Ready"
    column for that week.
 
-DLS' manager reserves the right to remove the sudden-priority label if they make
+The DLS Lead reserves the right to remove the sudden-priority label if they make
 a call that the issue is best delayed until the next project work cycle or a
 regularly scheduled maintenance/research week. If they
 do so, the issue will be marked as "on-deck" and pinned in the work cycle
@@ -59,7 +59,7 @@ might get ahead of those kinds of problems.
 [All Sudden Priority
 Issues](https://github.com/search?q=org%3Apulibrary+label%3Asudden-priority&type=Issues&ref=advsearch&l=&l=)
 
-## Actionable Issues
+## Writing actionable Issues
 
 Some guidelines follow which make an issue actionable and thus able to be added
 to a work cycle. Developers and product owners can use the following to
@@ -75,6 +75,7 @@ determine if an issue is "ready."
 * Impact on user is clear
 
 ### Feature issues
+
 * Title is clear and concise
 * Description includes a user story: "As a __ I need __ in order to __"
 * Provides actual or sample data: Do we have a case to develop and test against?
