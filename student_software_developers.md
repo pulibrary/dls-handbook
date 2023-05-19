@@ -23,8 +23,12 @@ During the summer Student Software Developers work full-time hours. During the
 school year they work part-time when classes are in session. Students can work
 at other times, e.g. reading week, if desired.
 
+## Time off
+
 Student employees accrue paid sick time and can take additional unpaid time off as
 needed in communication with their supervisor.
+
+If a student will miss their shift for any reason, they should post a message in the team slack channel saying that they won't be in. This ensures the team knows not to expect them in meetings, etc, even if their supervisor is also out. The student should follow up individually with their supervisor as to whether they will be using sick time or unpaid time.
 
 ## Hiring and Onboarding
 
