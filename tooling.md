@@ -12,7 +12,7 @@ Make sure these are installed for your individual setup. Many / most of these ar
 * [asdf](https://asdf-vm.com/) for language version management
   * All DLS projects include the `.tool-versions` configuration files for asdf
 * [docker desktop](https://www.docker.com/products/docker-desktop/) for development dependencies
-  * DLS projects are set up using lando (see below) which requires docker
+  * DLS projects are set up using lando (see below). Lando releases work best with certain versions of docker so the recommended way to install docker is to install lando, which will bring in the correct version of docker as part of its install process.
 * git for version control
   * You'll also need a [Github](https://github.com/pulibrary) account
 * [Lastpass](https://informationsecurity.princeton.edu/LastPass) for shared passwords
