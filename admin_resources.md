@@ -13,10 +13,9 @@
 
 ## Travel
 * Travel for conferences and professional development is encouraged (within reason), both within the library community, and in the broader IT/tech world
+* Refer to the [Library Travel Policy](https://lib-confluence.princeton.edu/display/LSC/Princeton+University+Library+Travel+Policy+and+Best+Practices)
 * Request funding using the [Travel and Leave Requests](http://approvals.princeton.edu/) app
-  * Include the [GSA per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rates/) (M&IE/meals and incidentals) for the city you're traveling to
 * Use [Concur](https://princeton.edu/concur) for booking travel and submitting expense reports
-  * Can also use third-party sites to book travel if that makes sense, but it'll take more data entry to put in your expense report
 * [Princeton’s travel site](http://travel.princeton.edu/)
 
 ## General
