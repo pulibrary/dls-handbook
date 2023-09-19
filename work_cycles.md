@@ -37,7 +37,7 @@ members of DLS and the product owner for the upcoming project.
 
 ### Standup
 
-Occurs daily at 3:30 PM Eastern when there isn't also a Cycle Planning or
+Occurs daily at 4:00 PM Eastern when there isn't also a Cycle Planning or
 Wrap-up meeting. Participants are members of DLS.
 
 #### Goals
