@@ -1,16 +1,10 @@
-# Applications
+# DLS Applications
 
 [Architecture diagram](https://docs.google.com/drawings/d/1qqHoceL4nahv8wmhK_QltL8f1StdBJ5GYFpIa6JQ3PA/edit)
 
-## AbID
-Absolute ID management Application. Generates absolute identifiers and eases
-barcode entry for physical items managed in aspace.
-  * [AbID production](https://abid.princeton.edu/), [AbID staging](https://abid-staging.princeton.edu/)
-  * [GitHub repository](https://github.com/pulibrary/abid)
-  * Technical slack channel: #pulfalight-tech
-  * User-centered slack channel: #pulfalight
+## Applications in active development
 
-## DPUL (Digital PUL)
+### DPUL (Digital PUL)
 Spotlight exhibits for showcasing Figgy content
   * [DPUL production](https://dpul.princeton.edu/), [DPUL staging](https://dpul-staging.princeton.edu/)
   * [Github repository](https://github.com/pulibrary/dpul)
@@ -20,7 +14,7 @@ Spotlight exhibits for showcasing Figgy content
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 
-## Figgy
+### Figgy
 Internal application for managing digital object ingest and metadata workflows and providing IIIF manifests to other applications
   * [Figgy production](https://figgy.princeton.edu), [Figgy staging](https://figgy-staging.princeton.edu)
   * [Github repository](https://github.com/pulibrary/figgy)
@@ -30,15 +24,7 @@ Internal application for managing digital object ingest and metadata workflows a
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 
-## LAE-Blacklight
-Latin American Ephemera frontend
-  * [LAE production](https://lae.princeton.edu)
-  * [Github repository](https://github.com/pulibrary/lae-blacklight)
-  * Technical liaison: [Trey](https://github.com/tpendragon), transfer to [Eliot](https://github.com/eliotjordan)
-  * Technical slack channel: #figgy
-  * User-centered slack channel: #digital_library
-
-## Maps Portal, aka PULMap
+### Maps Portal, aka PULMap
 GeoBlacklight app for maps and geo data discovery and access
   * [PULMap production](https://maps.princeton.edu)
   * [Github repository](https://github.com/pulibrary/pulmap)
@@ -48,7 +34,7 @@ GeoBlacklight app for maps and geo data discovery and access
   * Technical slack channel: #geo
   * User-centered slack channel: #geo
 
-## Finding Aids, aka PULFALight
+### Finding Aids, aka PULFALight
 Local instance of arclight
   * [Finding Aids production](https://findingaids.princeton.edu)
   * [Github repository](https://github.com/pulibrary/pulfalight)
@@ -56,6 +42,32 @@ Local instance of arclight
   * Technical liaison: [Shaun](https://github.com/sdellis)
   * Product owners: [Faith](https://github.com/faithc) and [Christa](https://github.com/ccleeton)
   * Slack channel: #pulfalight
+
+## Applications in active maintenance
+
+### AbID
+Absolute ID management Application. Generates absolute identifiers and eases
+barcode entry for physical items managed in aspace.
+  * [AbID production](https://abid.princeton.edu/), [AbID staging](https://abid-staging.princeton.edu/)
+  * [GitHub repository](https://github.com/pulibrary/abid)
+  * Technical slack channel: #pulfalight-tech
+  * User-centered slack channel: #pulfalight
+
+### Imagecat (aka the Supplementary Catalog)
+A searchable collection of scanned catalog cards
+  * [Imagecat production](https://imagecat.princeton.edu/), [Imagecat staging](https://imagecat-staging.princeton.edu/)
+      * Note both are only accessible when on VPN
+  * [Github repository](https://github.com/pulibrary/imagecat-rails)
+  * Technical slack channel: #figgy
+  * User-centered slack channel: #digital_library
+
+### LAE-Blacklight
+Latin American Ephemera frontend
+  * [LAE production](https://lae.princeton.edu)
+  * [Github repository](https://github.com/pulibrary/lae-blacklight)
+  * Technical liaison: [Trey](https://github.com/tpendragon), transfer to [Eliot](https://github.com/eliotjordan)
+  * Technical slack channel: #figgy
+  * User-centered slack channel: #digital_library
 
 
 ## Our Tooling Repositories
