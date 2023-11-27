@@ -1,4 +1,14 @@
 title: "DLS Handbook"
+plugins:
+  - jekyll-commonmark-ghpages
+  - jekyll-default-layout
+  - jekyll-include-cache
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-titles-from-headings
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dls-handbook"
 readme_index:
@@ -9,3 +19,4 @@ aux_links:
   "DLS Handbook on GitHub":
     - "//github.com/pulibrary/dls-handbook"
 aux_links_new_tab: true
+markdown: CommonMarkGhPages
