@@ -27,7 +27,7 @@ DLS will work to:
 
 * Provide appropriate notice to a PO when a relevant work cycle is upcoming, at
 least 1 week before the relevant Cycle Planning meeting (see [work
-cycles](./work_cycles.md).)
+cycles](/work_cycles.md).)
   * If the previous work cycle needs to continue to meet our goals, DLS will
     notify the PO of the delay and adjust the meeting invitations appropriately.
 * Ensure planning and wrap-up meeting agendas provide times during which POs can
