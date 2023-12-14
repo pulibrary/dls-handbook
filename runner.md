@@ -23,7 +23,7 @@ tickets with sufficient information to close them without honeybadger history.
 Volunteer to be the runner at stand-up or the work cycle wrap-up.
 
 Ensure your notifications are on for all of DLS'
-[applications](./applications.md).
+[applications](/applications.md).
 
 ### Each Morning
 
