@@ -5,7 +5,7 @@
 ## Applications in active development
 
 ### DPUL (Digital PUL)
-Spotlight exhibits for showcasing Figgy content
+A digital exhibits and collections application for showcasing Figgy content, built on Spotlight.
   * [DPUL production](https://dpul.princeton.edu/), [DPUL staging](https://dpul-staging.princeton.edu/)
   * [Github repository](https://github.com/pulibrary/dpul)
   * [Zenhub board](https://app.zenhub.com/workspaces/dpul-5cc9dbb2262a972347170639/board?repos=49439415&showEstimates=false&showReleases=false)
@@ -15,7 +15,7 @@ Spotlight exhibits for showcasing Figgy content
   * User-centered slack channel: #digital_library
 
 ### Figgy
-Internal application for managing digital object ingest and metadata workflows and providing IIIF manifests to other applications
+Our digital repository: a staff application for managing digital object ingest and metadata workflows. Figgy also provides IIIF manifests and viewers to other applications.
   * [Figgy production](https://figgy.princeton.edu), [Figgy staging](https://figgy-staging.princeton.edu)
   * [Github repository](https://github.com/pulibrary/figgy)
   * [Zenhub board](https://app.zenhub.com/workspaces/figgystudio-5c06d2e24b5806bc2bfa890b/board)
@@ -25,7 +25,7 @@ Internal application for managing digital object ingest and metadata workflows a
   * User-centered slack channel: #digital_library
 
 ### Maps Portal, aka PULMap
-GeoBlacklight app for maps and geo data discovery and access
+A discovery and access application for maps and geospatial data, built on GeoBlacklight.
   * [PULMap production](https://maps.princeton.edu)
   * [Github repository](https://github.com/pulibrary/pulmap)
   * [Zenhub board](https://app.zenhub.com/workspaces/pulmap-5cf5538c08e7e9307cd79c45/board?repos=26446857)
@@ -35,7 +35,7 @@ GeoBlacklight app for maps and geo data discovery and access
   * User-centered slack channel: #geo
 
 ### Finding Aids, aka PULFALight
-Local instance of arclight
+A discovery application for archival and special collections materials, built on Arclight
   * [Finding Aids production](https://findingaids.princeton.edu)
   * [Github repository](https://github.com/pulibrary/pulfalight)
   * [Zenhub board](https://app.zenhub.com/workspaces/pulfalight-5da4b7d9f037f100019dba23/board?repos=157741631)
@@ -46,8 +46,7 @@ Local instance of arclight
 ## Applications in active maintenance
 
 ### AbID
-Absolute ID management Application. Generates absolute identifiers and eases
-barcode entry for physical items managed in aspace.
+A staff-facing site for absolute ID management Application. Generates absolute identifiers and eases barcode entry for physical items managed in aspace.
   * [AbID production](https://abid.princeton.edu/), [AbID staging](https://abid-staging.princeton.edu/)
   * [GitHub repository](https://github.com/pulibrary/abid)
   * Technical slack channel: #pulfalight-tech
@@ -62,7 +61,7 @@ A searchable collection of scanned catalog cards
   * User-centered slack channel: #digital_library
 
 ### LAE-Blacklight
-Latin American Ephemera frontend
+A discovery and access application for PUL's Latin American Ephemera collections
   * [LAE production](https://lae.princeton.edu)
   * [Github repository](https://github.com/pulibrary/lae-blacklight)
   * Technical liaison: [Trey](https://github.com/tpendragon), transfer to [Eliot](https://github.com/eliotjordan)
