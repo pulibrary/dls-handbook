@@ -13,7 +13,7 @@
 
 ## Travel
 * Travel for conferences and professional development is encouraged (within reason), both within the library community, and in the broader IT/tech world
-* Refer to the [Library Travel Policy](https://lib-confluence.princeton.edu/display/LSC/Princeton+University+Library+Travel+Policy+and+Best+Practices)
+* Refer to the [Library Travel Policy](https://pul-confluence.atlassian.net/wiki/x/CYAd)
 * Request funding using the [Travel and Leave Requests](http://approvals.princeton.edu/) app
 * Use [Concur](https://princeton.edu/concur) for booking travel and submitting expense reports
 * [Princeton’s travel site](http://travel.princeton.edu/)
@@ -27,4 +27,4 @@
 * [Connecting](https://pulstaff.princeton.edu/guidelines/slack-guidelines/), the Library Intranet, includes strategic planning info, blog posts, committee reports, and library policies.
 * [Library Staff](https://library.princeton.edu/staff) links and resources
   maintained by the library.
-* Library-wide [confluence wiki](https://lib-confluence.princeton.edu/), used to manage documentation, policies, committee materials, project documents, and other internal documents.
+* Library-wide [confluence wiki](https://pul-confluence.atlassian.net), used to manage documentation, policies, committee materials, project documents, and other internal documents.
