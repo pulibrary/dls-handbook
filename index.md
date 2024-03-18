@@ -5,22 +5,13 @@ nav_order: 1
 ---
 # Digital Library Services Handbook
 
-Welcome! The goal of this handbook is to provide insight into how DLS at
-Princeton Library performs our work, the promises we make to our collaborators,
+Welcome! The goal of this handbook is to provide insight into how the Digital
+Library Services (DLS) team at
+Princeton University Library (PUL) performs our work, the promises we make to our collaborators,
 and the expectations we have of them. We also use this as a place to
 document common practices and tools we've found useful in our team.
 
-We also have a handbook for cross-team norms and technical practice at
-[https://github.com/pulibrary/pul-it-handbook](https://github.com/pulibrary/pul-it-handbook).
-
-If you read through this and find it confusing, are seeking more information, or
-just generally have feedback we'd love to hear from you! You can contact us in the 
-following ways:
-
-- Email us:
-    [digital-library@princeton.libanswers.com](mailto:digital-library@princeton.libanswers.com)
-- Create a [Github issue](https://github.com/pulibrary/dls-handbook/issues)
-- Message us in #digital_library in PULibrary's Slack
+For documented cultural norms and technical practice across teams in PUL IT, see [pul-it-handbook](https://github.com/pulibrary/pul-it-handbook).
 
 ## Our Vision
 
@@ -51,3 +42,12 @@ DLS will prioritize development work and organization processes in such a way as
 1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
 1. [Student Software Developers](student_software_developers.md)
 1. [Vacation](/vacation.md)
+
+## Feedback
+We'd love to hear your feedback and questions about the contents of this handbook! You can contact us in the following ways:
+
+- Email us:
+    [digital-library@princeton.libanswers.com](mailto:digital-library@princeton.libanswers.com)
+- Create a [Github issue](https://github.com/pulibrary/dls-handbook/issues)
+- Message us in #digital_library in PULibrary's Slack
+
