@@ -1,0 +1,19 @@
+{%- comment -%}
+Based on and replaces the sidebar navigation in the just the docs theme, to have
+a page-level TOC instead of a list of all the pages in the site.
+https://github.com/just-the-docs/just-the-docs/blob/7de5f7abe53e832c0ca91b4d2b893aee85065650/_includes/components/nav.html
+{%- endcomment -%}
+
+<ul class="nav-list">
+{%- for node in first_level_pages -%}
+  {%- if page.url == node.url -%}
+  <li class="nav-list-item">
+    <a href="{{ page.url }}" class="nav-list-link">{{ page.title }}</a>
+      <ul class="nav-list">
+        <li class="nav-list-item"><a href="#" class="nav-list-link">Top of page</a></li>
+      </ul>
+      {% include toc.html html=content sanitize=true class="nav-list" item_class="nav-list-item" anchor_class="nav-list-link" h_min=2 h_max=2 %}
+    {% endif %}
+  {%- endfor -%}
+  </li>
+</ul>
