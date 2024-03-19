@@ -1,5 +1,34 @@
 {%- comment -%}
-Based on and replaces the sidebar navigation in the just the docs theme, to have
+  Include as: {%- include components/nav.html pages=pages -%}
+  Depends on: include.pages.
+  Results in: HTML for the navigation panel.
+  Includes:
+    sorted_pages.html
+  Overwrites:
+    nav_pages, first_level_pages, second_level_pages, third_level_pages,
+    node, children_list, child, grand_children_list, grand_child.
+{%- endcomment -%}
+
+{%- assign nav_pages = include.pages
+    | where_exp: "item", "item.title != nil"
+    | where_exp: "item", "item.nav_exclude != true" -%}
+
+{%- include sorted_pages.html pages = nav_pages -%}
+
+{%- comment -%}
+  It might be more efficient to sort the pages at each level separately.
+{%- endcomment -%}
+
+{%- assign first_level_pages = sorted_pages
+    | where_exp: "item", "item.parent == nil" -%}
+{%- assign second_level_pages = sorted_pages
+    | where_exp: "item", "item.parent != nil"
+    | where_exp: "item", "item.grand_parent == nil" -%}
+{%- assign third_level_pages = sorted_pages
+    | where_exp: "item", "item.grand_parent != nil" -%}
+
+{%- comment -%}
+PUL override: Based on and replaces the sidebar navigation in the just the docs theme, to have
 a page-level TOC instead of a list of all the pages in the site.
 https://github.com/just-the-docs/just-the-docs/blob/7de5f7abe53e832c0ca91b4d2b893aee85065650/_includes/components/nav.html
 {%- endcomment -%}
