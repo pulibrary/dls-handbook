@@ -1,3 +1,7 @@
+---
+layout: default
+title: UX Research
+---
 # Evaluating and Improving User Experience in DLS Applications
 
 ## What is User Experience?

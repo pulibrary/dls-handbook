@@ -1,3 +1,7 @@
+---
+layout: default
+title: User Interviews
+---
 # User Interviews: How, When, and Why to Conduct Them
 
 **Summary:** _User interviews have become a popular technique for getting user feedback, mainly because they are fast and easy. We use them to learn about users’ perceptions of our designs, not about their usability._
