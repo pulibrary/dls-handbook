@@ -75,7 +75,15 @@
     {% assign skipNoIDs = include.skip_no_ids | default: include.skipNoIDs | default: false %}
     {% assign minHeader = include.h_min | default: 1 %}
     {% assign maxHeader = include.h_max | default: 6 %}
-    {% assign nodes = include.html | strip | split: '<h' %}
+    {% comment %}
+    PUL override: Add in a "Top of page" in a fashion that will be correctly
+    parsed for the TOC. The other way of doing this is to include the h1
+    headers, but then all the links to h2 headers get styled with bullets and it
+    looks really bad
+    {% endcomment %}
+    {% assign pageTop = '<h2 id=""><a href="#" class="anchor-heading"
+        aria-labelledby="standard-dls-development-tools">Top of page</a></h2>' %}
+    {% assign nodes = include.html | strip | prepend: pageTop | split: '<h' %}
 
     {% assign firstHeader = true %}
     {% assign currLevel = 0 %}
