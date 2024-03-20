@@ -40,9 +40,6 @@ https://github.com/just-the-docs/just-the-docs/blob/7de5f7abe53e832c0ca91b4d2b89
   <li class="nav-list-item">
     <a href="{{ node.url | relative_url }}" class="nav-list-link">{{ node.title }}</a>
     {%- if page.url == node.url -%}
-      <!-- <ul class="nav&#45;list"> -->
-      <!--   <li class="nav&#45;list&#45;item"><a href="#" class="nav&#45;list&#45;link">Top of page</a></li> -->
-      <!-- </ul> -->
       {% include toc.html html=content sanitize=true class="nav-list" item_class="nav-list-item" anchor_class="nav-list-link" h_min=2 h_max=2 %}
     {% endif %}
   </li>
