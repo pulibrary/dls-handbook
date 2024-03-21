@@ -39,6 +39,7 @@ DLS will prioritize development work and organization processes in such a way as
 1. [Development Tooling](/tooling.md)
 1. [Improving User Experience](/ux_research.md)
 1. [Inclusive Language](/inclusive_language.md)
+1. [Onboarding](/onboarding.md) to the DLS team
 1. [Runner](/runner.md) - The nature and duties of the rotating "runner" role
 1. [Student Software Developers](student_software_developers.md)
 1. [Vacation](/vacation.md)
