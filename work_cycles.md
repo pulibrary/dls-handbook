@@ -1,3 +1,7 @@
+---
+layout: default
+title: Development Work Cycles
+---
 # Work Cycles
 
 ## Development Rhythm

@@ -1,8 +1,6 @@
 # Development Practice
 
-## Routine / Project work
-
-### Selecting an issue
+## Selecting an issue
 
 Each week we either work from the [Work Cycle
 Board](https://app.zenhub.com/workspaces/dls-work-cycle-613924a1df719e0013b678b0/board?repos=98223070)
@@ -15,7 +13,7 @@ The `ready` column of a given board has issues ordered roughly by priority.
 Always assign yourself to an issue before to starting to work on it, and move it
 to the `in progress` column.
 
-### Pairing
+## Pairing
 
 Our team considers ourselves "pairing-friendly." Several of us very much like to
 pair, and we all do pair at least sometimes. We've tried various ways of
@@ -42,7 +40,7 @@ Checklist for every time you pair:
 - [ ] Use Co-authored-by lines in the commit message (This [.gitmessage](https://github.com/pulibrary/pul-the-hard-way/blob/main/gitmessage.md) file might be handy)
 - [ ] Check in afterwards about how it went. 
 
-### Submitting code
+## Submitting code
 
 * Ensure code is arranged in logical, unitary commits unless you want it squash-merged.
 * Ensure any new or modified code has test coverage. Many of us practice test-driven development, but at the least a test should be confirmed to be failing before the code change is applied.
@@ -56,7 +54,7 @@ Checklist for every time you pair:
 without waiting for another reviewer.
 * Ensure the issue is closed if no further work is required.
 
-### Reviewing code
+## Reviewing code
 
 * Review other pull requests over the course of the day.
 * We generally follow the [Samvera Code Review](https://samvera.github.io/review.html) guidelines
