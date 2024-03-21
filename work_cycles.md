@@ -73,3 +73,9 @@ Fridays for vacation.
 
 **Research & Maintenance Board**:
 [Zenhub](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007)
+
+## Retrospectives
+
+DLS holds regular retrospectives to reflect on our accomplishments and
+challenges, and to discuss any changes we may want to make to team process.
+Retrospectives are scheduled every 6-8 weeks.
