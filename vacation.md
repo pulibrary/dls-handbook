@@ -27,7 +27,5 @@ with and they'd be happy to share the information above.
 1. Send a message to your manager in Slack. Assuming no problems, do the
    following:
 1. Update personal calendar with vacation time.
-1. Your manager will update IT Away calendar (a shared calendar showing all of ITIMS'
-   time away)
-1. Put your vacation request into self service. This can be done when you get
-   back, but must be done to keep accurate track of remaining vacation balance.
+1. Your manager will update IT Away calendar (a shared calendar showing all of ITIMS' time away)
+1. Put your vacation request into [self service](http://www.princeton.edu/hr/progserv/sds/applications/selfservice.html). This can be done when you get back, but must be done to keep accurate track of remaining vacation balance.
