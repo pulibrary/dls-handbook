@@ -38,7 +38,7 @@ The tools we use to configure, support, and monitor our applications
   * We have institutional access to Adobe XD and Lucid Charts
   * websequencediagrams.com lets you code your diagram with text and then export
     it as an image
-  * Try [Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) for markdown-based diagrams that will live on github.
+  * Try [Mermaid](https://mermaid.js.org/ecosystem/tutorials.html) for markdown-based diagrams that will live on github.
 * For __Browser testing__ we have a few licenses for BrowserStack.
 * __Other tools__ used by members of our team include
   * [thoughtbot's laptop script](https://github.com/thoughtbot/laptop) for laptop setup
