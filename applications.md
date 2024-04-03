@@ -96,7 +96,15 @@ code is and which cloud they run on.
 Amazon CDK configurations for deploying TiTiler, a map tile server
   * Production host name: map-tiles.princeton.edu
   * Cloud Service: AWS
-  * [Github repository](https://github.com/pulibrary/titiler-aws)
+  * [Github repository](https://github.com/pulibrary/geoservices-aws/blob/main/geoservices/titiler_service_stack.py)
+  * Technical slack channel: #geo
+  * User-centered slack channel: #geo
+
+###  Geodata AWS
+Amazon CDK configurations for deploying and providing access control for PMTiles vector data
+  * Production host name: geodata.lib.princeton.edu
+  * Cloud Service: AWS
+  * [Github repository](https://github.com/pulibrary/geoservices-aws/blob/main/geoservices/geodata_stack.py)
   * Technical slack channel: #geo
   * User-centered slack channel: #geo
 
