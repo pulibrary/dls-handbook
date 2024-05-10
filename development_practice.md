@@ -2,10 +2,8 @@
 
 ## Selecting an issue
 
-Each week we either work from the [Work Cycle
-Board](https://app.zenhub.com/workspaces/dls-work-cycle-613924a1df719e0013b678b0/board?repos=98223070)
-or the [Maintenance & Research
-board](https://app.zenhub.com/workspaces/dls-maintenance--research-6139264d4f68940016d4b7cf/board?repos=26446857,98223070,49439415,157741631,251438007).
+We work from the [Work Cycle
+Board](https://app.zenhub.com/workspaces/dls-work-cycle-613924a1df719e0013b678b0/board?repos=98223070).
 
 We also have a [Learning-friendly Board](https://app.zenhub.com/workspaces/dls-learning-friendly-62e046ab829aafbe2d6520b2/board) for members of our team who are focused on training and not working on work cycle issues.
 
