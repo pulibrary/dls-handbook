@@ -27,7 +27,7 @@ If a "sudden priority" issue comes up, a product owner should do the following:
 1. Create the Github issue. Include as much information as possible.
 1. Add a "Sudden Priority" justification section. This should include how
    staff's work is being impacted and why there are no suitable workarounds.
-   Please also include how urgent the priority is - can it wait until a couple
+   Please also include how urgent the priority is - can it wait a couple
    weeks until the next planning meeting, or must it be done immediately?
 1. Add the "sudden-priority" label to the issue.
 1. Send a message in Slack to the "digital_library" channel so DLS knows to
