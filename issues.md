@@ -41,7 +41,7 @@ DLS should then do the following:
 The DLS Lead reserves the right to remove the sudden-priority label if they make
 a call that the issue is best delayed until the next project work cycle. If they
 do so, the issue will be marked as "on-deck" and pinned in the work cycle
-planning.
+planning board.
 
 Example of a sudden priority issue:
 [figgy/4811](https://github.com/pulibrary/figgy/issues/4811)
