@@ -27,8 +27,8 @@ If a "sudden priority" issue comes up, a product owner should do the following:
 1. Create the Github issue. Include as much information as possible.
 1. Add a "Sudden Priority" justification section. This should include how
    staff's work is being impacted and why there are no suitable workarounds.
-   Please also include how urgent the priority is - can it wait until a couple
-   weeks until the next maintenance week, or must it be done immediately?
+   Please also include how urgent the priority is - can it wait a couple
+   weeks until the next planning meeting, or must it be done immediately?
 1. Add the "sudden-priority" label to the issue.
 1. Send a message in Slack to the "digital_library" channel so DLS knows to
    begin acting on the issue.
@@ -36,16 +36,12 @@ If a "sudden priority" issue comes up, a product owner should do the following:
 DLS should then do the following:
 
 1. Ensure the issue is actionable.
-1. Give the issue a "work-cycle" or "maintenance/research" label depending on
-   which week in the work cycle is (or maintenance/research if the issue can be
-   delayed until then), and pin it in Zenhub. Move it to the "Ready"
-   column for that week.
+1. Give the issue a "work-cycle" label. If it needs to be done ASAP, ping DLS in #digital_library and the DLS Lead will work with you to get it prioritized before the next planning meeting.
 
 The DLS Lead reserves the right to remove the sudden-priority label if they make
-a call that the issue is best delayed until the next project work cycle or a
-regularly scheduled maintenance/research week. If they
+a call that the issue is best delayed until the next project work cycle. If they
 do so, the issue will be marked as "on-deck" and pinned in the work cycle
-planning or maintenance board, as appropriate.
+planning board.
 
 Example of a sudden priority issue:
 [figgy/4811](https://github.com/pulibrary/figgy/issues/4811)
