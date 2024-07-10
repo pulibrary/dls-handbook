@@ -78,6 +78,14 @@ Occurs weekly every Tuesday from 3:30 PM to 4:00 PM. Participants are members of
 1. Ticket any exceptions that should have notified us via monitoring instead of Honeybadger - e.g. Postgres is down.
 1. Look together at any exceptions that are unexpected or may point to us needing to do work - ticket those.
 
+### Team Time
+
+Occurs Tuesdays, Wednesdays, and Thursdays from 11 AM to 1:00 PM and 3:30 PM to 4:30 PM Eastern.
+
+#### Goals
+
+1. Provide a blocked off area where our team is all free from other commitments to work at the same time, ensemble, meet suddenly, or just generally focus on tasks directly related to our team goals.
+
 ## Retrospectives
 
 DLS holds regular retrospectives to reflect on our accomplishments and
