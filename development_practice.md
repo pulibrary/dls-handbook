@@ -38,6 +38,13 @@ Checklist for every time you pair:
 - [ ] Use Co-authored-by lines in the commit message (This [.gitmessage](https://github.com/pulibrary/pul-the-hard-way/blob/main/gitmessage.md) file might be handy)
 - [ ] Check in afterwards about how it went. 
 
+## Ensembling
+
+Sometimes our team likes to "ensemble," which is all working together at the same time in the same room on a particular feature or ticket. This allows us to quickly distribute knowledge around core parts of our code and design as a group. We see it as a low stress way to collaboratively learn. Our common practices are as follows:
+
+1. When starting an ensemble, have everyone "Roll Initiative" - this is a roll of a 20 sided dice to determine the order of the person typing. You can roll by searching "Roll d20" in Google and reporting the number.
+2. Use the "Pomodoro" technique - work for 25 minutes, take a 5 minute break, and then switch the person "driving" (the one typing.)
+
 ## Submitting code
 
 * Ensure code is arranged in logical, unitary commits unless you want it squash-merged.
