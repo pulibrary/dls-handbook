@@ -4,6 +4,8 @@
 
 Our goal in this program is to fully integrate undergraduate developers into our team. These developers will be paired with members of DLS to initially build skills and then work issues to advance our software.
 
+This program is not currently being administered.
+
 ## Team Integration
 
 Student Developers will operate as a member of the DLS team, with the exception
@@ -53,7 +55,21 @@ Student Software Developers are paid biweekly. Timesheet and pay schedules are a
 
 In appreciation for the amazing students who have worked with members of our team and contributed so much to our projects!
 
+### 2024-25
+* Amin Zare
+
+### 2023-24
+* Melford Spiff-Rufus
+
 ### 2022-23
 * Michelle Liu
 * Taylor Yamashita
 * Thanya Begum
+
+### 2021-22
+* Thanya Begum
+* Xander Gardner
+* Zaynab Masood
+
+### 2019-20
+* Khanh Vu
