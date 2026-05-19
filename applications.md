@@ -18,10 +18,10 @@ A digital exhibits and collections application for showcasing Figgy content, bui
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 
-### DPUL-Collections (Digital PUL Collections)
+### Digital Collections
 
-Digital Princeton University Library Collections (aka DPUL Collections) is a discovery application built towards our vision to provide an inspiring environment for global communities to engage with diverse digital collections.
-  * [DPUL-C staging](https://dpul-collections-staging.lib.princeton.edu/)
+Digital Collections (aka DPUL-C) is a discovery application built towards our vision to provide an inspiring environment for global communities to engage with diverse digital collections.
+  * [Digital Collections production](https://digital-collections.princeton.edu/)
   * [Github repository](https://github.com/pulibrary/dpul-collections)
   * Technical liaison: [Anna](https://github.com/hackartisan)
   * Product owner: [Kim](https://github.com/kelea99)
