@@ -45,6 +45,85 @@ Sometimes our team likes to "ensemble," which is all working together at the sam
 1. When starting an ensemble, have everyone "Roll Initiative" - this is a roll of a 20 sided dice to determine the order of the person typing. You can roll by searching "Roll d20" in Google and reporting the number.
 2. Use the "Pomodoro" technique - work for 25 minutes, take a 5 minute break, and then switch the person "driving" (the one typing.)
 
+## Design
+
+A fluid and successful user experience for our patrons is a key requirement of our applications. Our process around design prioritizes iteration, understanding, innovation, and collaboration.
+
+Rather than have a concrete process for all cases, we work with a set of guidelines and tools that we reach for depending on what seems most likely to move us towards a better experience to meet our goals.
+
+In all these cases remember that design is often a personal experience. Feedback and engagement should be collaborative, friendly, and focused on the goals of the experience.
+
+### Design Sprint
+
+**When:** A new project is being started.
+
+**How:** Gather key stakeholders for an intensive week of collaboration. Design activities to gather key goals, success criteria, audience, and core interactions. Some resources:
+  * [Thoughtbot Design Playbook](https://thoughtbot.com/playbook/designing)
+  * [Gamestorming](https://gamestorming.com/blog/)
+
+**Output:** Various artifacts that will lead towards a successful implementation.
+
+**Examples (likely private):**
+  * [Digital Collections](https://drive.google.com/drive/u/1/folders/18X3JoTwYcxPDpUnpAWxmIhJ6LSeJp291)
+      - Audience + Problem Statement
+      - Audiences
+      - Success
+      - First Step
+      - Metrics & Design
+
+### Success Criteria, Goals
+
+**When:** Designing a new page or experience.
+
+**How:** Discussion or various brainstorming exercises, likely in collaboration with other units and stakeholders.
+
+**Output:** Documentation in the repository about what the goals of a page or new experience are.
+
+**Examples:**
+  * [Digital Collections Goals](https://github.com/pulibrary/dpul-collections/blob/main/docs/goals.md#search-results-page)
+  * [Digital Collections Success Criteria](https://github.com/pulibrary/dpul-collections/blob/main/docs/success_metrics.md)
+  * [Digital Collections Audiences](https://github.com/pulibrary/dpul-collections/blob/main/docs/audience.md)
+
+### Participatory Design
+
+**When:** There's many different ways to reach the goal and developers/stakeholders may see different solutions to the same problem given their unique experience.
+
+**How:** Brainstorming exercises such as [Speedy-Eights](https://thoughtbot.com/playbook/designing/design-sprints/04-diverge-exercises/speedy-eights), [Paper prototypes](https://thoughtbot.com/playbook/designing/design-sprints/04-diverge-exercises/3-step-storyboards) with voting on favorite features, or other activities.
+
+**Output:** A ticket comment summarizing the discussion and next steps. Potentially an implementation ticket.
+
+**Examples:**
+
+  * [Digital Collections Filter Iteration Brainstorming](https://github.com/pulibrary/dpul-collections/issues/1159#issuecomment-4347927635)
+  * [Digital Collections Mood Boards](https://drive.google.com/drive/u/1/folders/1lWkptsGVgb6vioVeXXZ81d9RBmGu9QLu)
+
+### Mockups
+
+**When:** There are questions about implementation which may be faster to design than to implement and throw away.
+
+**How:** Whatever method the implementors find easiest, as long as it results in a design for feedback. This may be Photoshop, Figma, or even HTML/CSS. There is often several steps of iteration with feedback in standups, in the channel, on the ticket, or in ensembles. The fidelity of the mockup should be enough to make an implementation ticket actionable. Mockup tickets may lead to implementation tickets that are specified and added to the Work Cycle board in the middle of a cycle.
+
+**Output:** An agreed upon mockup and an implementation ticket. This may result in a Design Decision Record to record why certain decisions were made.
+
+**Example:**
+  * [Digital Collections Content Warnings Design](https://github.com/pulibrary/dpul-collections/issues/667)
+  * [Digital Collections Content Warnings Implementation](https://github.com/pulibrary/dpul-collections/issues/371)
+  * [Digital Collections Filters Design Decision Record](https://github.com/pulibrary/dpul-collections/blob/main/design-decisions/0001-filters.md)
+
+### Iteration & Review
+
+**When:** After an implementation has been in place for a while, you may want to go back and look at the original designs to see if the trade-offs still made sense. It may be that you come up with a new idea and want to try a new design that will better meet the original goals.
+
+**How:** Look at the goals, design, and implementation tickets for a feature. If it looks like there may be iteration to do, create a ticket and try it out. Gather feedback from the team and potentially stakeholders as per our normal process.
+
+**Output:** A ticket or pull request with a new implementation.
+
+**Examples:**
+
+  * [Digital Collections Search Result Cards](https://github.com/pulibrary/dpul-collections/pull/754)
+  * [Digital Collections Collection Page Iteration](https://github.com/pulibrary/dpul-collections/pull/1157)
+  * [Digital Collections Search Button Design](https://github.com/pulibrary/dpul-collections/pull/1151)
+
 ## Submitting code
 
 * Ensure code is arranged in logical, unitary commits unless you want it squash-merged.
