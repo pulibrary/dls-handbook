@@ -101,7 +101,7 @@ In all these cases remember that design is often a personal experience. Feedback
 
 **When:** There are questions about implementation which may be faster to design than to implement and throw away.
 
-**How:** Whatever method the implementors find easiest, as long as it results in a design for feedback. This may be Photoshop, Figma, or even HTML/CSS. There is often several steps of iteration with feedback in standups, in the channel, on the ticket, or in ensembles. The fidelity of the mockup should be enough to make an implementation ticket actionable. Mockup tickets may lead to implementation tickets that are specified and added to the Work Cycle board in the middle of a cycle.
+**How:** Whatever method the implementors find easiest, as long as it results in a design for feedback. This may be Photoshop, Figma, or even HTML/CSS. There is often several steps of iteration with feedback in standups, in the channel, on the ticket, or in ensembles. The fidelity of the mockup should be enough to make an implementation ticket actionable. Mockup tickets should follow all our normal best practices for actionable tickets, and often include documentation around edge cases or explicit questions the mockup should attempt to answer. Mockup tickets may lead to implementation tickets that are specified and added to the Work Cycle board in the middle of a cycle.
 
 **Output:** An agreed upon mockup and an implementation ticket. This may result in a Design Decision Record to record why certain decisions were made.
 
@@ -109,6 +109,7 @@ In all these cases remember that design is often a personal experience. Feedback
   * [Digital Collections Content Warnings Design](https://github.com/pulibrary/dpul-collections/issues/667)
   * [Digital Collections Content Warnings Implementation](https://github.com/pulibrary/dpul-collections/issues/371)
   * [Digital Collections Filters Design Decision Record](https://github.com/pulibrary/dpul-collections/blob/main/design-decisions/0001-filters.md)
+  * [Digital Collections Related Collections Design](https://github.com/pulibrary/dpul-collections/issues/889)
 
 ### Iteration & Review
 
