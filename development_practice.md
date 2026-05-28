@@ -49,7 +49,7 @@ Sometimes our team likes to "ensemble," which is all working together at the sam
 
 A fluid and successful user experience for our patrons is a key requirement of our applications. Our process around design prioritizes iteration, understanding, innovation, and collaboration.
 
-Rather than have a concrete process for all cases, we work with a set of guidelines and tools that we reach for depending on what seems most likely to move us towards a better experience to meet our goals.
+Rather than have a concrete process for all cases, we work with a set of guidelines and tools that we reach for, depending on what seems most likely to move us towards a better experience to meet our goals.
 
 In all these cases remember that design is often a personal experience. Feedback and engagement should be collaborative, friendly, and focused on the goals of the experience.
 
@@ -103,7 +103,7 @@ In all these cases remember that design is often a personal experience. Feedback
 
 **How:** Whatever method the implementors find easiest, as long as it results in a design for feedback. This may be Photoshop, Figma, or even HTML/CSS. There is often several steps of iteration with feedback in standups, in the channel, on the ticket, or in ensembles. The fidelity of the mockup should be enough to make an implementation ticket actionable. Mockup tickets should follow all our normal best practices for actionable tickets, and often include documentation around edge cases or explicit questions the mockup should attempt to answer. Mockup tickets may lead to implementation tickets that are specified and added to the Work Cycle board in the middle of a cycle.
 
-**Output:** An agreed upon mockup and an implementation ticket. This may result in a Design Decision Record to record why certain decisions were made.
+**Output:** An agreed upon mockup and an implementation ticket. This may result in a Design Decision Record (documented in the repository at `/design-decisions`) to record why certain decisions were made.
 
 **Example:**
   * [Digital Collections Content Warnings Design](https://github.com/pulibrary/dpul-collections/issues/667)
