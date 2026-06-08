@@ -24,3 +24,9 @@
     * Set up by DLS to quickly implement project-specific metrics
     * Temporary home for some stats and dashboards that may move to signoz
     * Runs on nomad
+
+## Scenarios
+
+### Are our prod sites up?
+
+You can look at the little [status page](https://status.hbuptime.com/BKASRM) honeybadger builds for us.
