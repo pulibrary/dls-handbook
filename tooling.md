@@ -19,15 +19,13 @@ Make sure these are installed for your individual setup. Many / most of these ar
 
 ## Standard project tooling
 
-The tools we use to configure, support, and monitor our applications
+The tools we use to configure, support, and maintain our applications. See also [Observability](/observability.md).
 
 * Use [dls-github-labeler](https://github.com/pulibrary/dls-github-labeler) to generate an initial set of labels
 * [CircleCI](https://circleci.com/gh/pulibrary) for CI
 * [Bixby](https://github.com/samvera-labs/bixby) ruby style enforcement that wraps [Rubocop](https://github.com/bbatsov/rubocop) and provides defaults determined by the Samvera open source community
 * [Lando](https://lando.dev/) for running service dependencies like solr and postgres
-* [HoneyBadger](https://www.honeybadger.io/), [DataDog](https://app.datadoghq.com/), and [Sensu](https://lib-monitor.princeton.edu/dashboard) for error tracking and monitoring
 * [VPN](https://princeton.service-now.com/snap?sys_id=6023&id=kb_article) for connecting to our staging applications
-* [SignalSciences](https://dashboard.signalsciences.net/) for analyzing incoming web traffic and identifying/blocking attacks
 * tmux is on all our servers to allow us to run long tasks without risking
   connection loss. Several of us use it locally with vim.
 
