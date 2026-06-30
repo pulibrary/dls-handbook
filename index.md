@@ -20,7 +20,7 @@ the context of Princeton University Library's [Mission, Vision, and North Star
 Statements](https://library.princeton.edu/about) that will help us situate
 our work within the broader vision and move it forward.
 
-> Princeton University's Digital Library will become an inspiring environment for global communities to engage with diverse collections. To support this goal, our Digital Library platform will enable easy ingest, long-term preservation, joyful discovery, and transformative use of digital materials.
+> Princeton University's Digital Library will be a trusted and welcoming platform for connecting people, collections, and ideas across cultures and generations through primary sources. By making it easy to preserve, discover, contextualize, and reuse digital resources, we empower communities worldwide to collaborate in knowledge generation and rich storytelling.
 
 DLS will prioritize development work and organization processes in such a way as to have the most impact towards this vision, and we encourage our partners and stakeholders to imagine ways for us to get there together.
 
