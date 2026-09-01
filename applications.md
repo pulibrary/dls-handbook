@@ -74,19 +74,9 @@ A searchable collection of scanned catalog cards
   * Technical slack channel: #figgy
   * User-centered slack channel: #digital_library
 
-### LAE-Blacklight
-A discovery and access application for PUL's Latin American Ephemera collections
-  * [LAE production](https://lae.princeton.edu)
-  * [Github repository](https://github.com/pulibrary/lae-blacklight)
-  * Technical liaison: [Trey](https://github.com/tpendragon), transfer to [Eliot](https://github.com/eliotjordan)
-  * Technical slack channel: #figgy
-  * User-centered slack channel: #digital_library
-
-
 ## Our Tooling Repositories
 * [dls-handbook](https://github.com/pulibrary/dls-handbook)
 * [dls-github-labeler](https://github.com/pulibrary/dls-github-labeler)
-* [rails-template](https://github.com/pulibrary/rails-template)
 
 ## Cloud Services
 
@@ -146,8 +136,7 @@ Some applications cross teams or organizations and are central to our work.
 * [CAS](https://www.princeton.edu/cas) - authentication
 * [GeoServer](http://geoserver.org/) - Geo data server, in production at
   [https://geoserver.princeton.edu/geoserver/web/](https://geoserver.princeton.edu/geoserver/web/)
-* [Cantaloupe](https://github.com/medusa-project/cantaloupe) - IIIF image API server
-* Isilon - storage
+* Tigerdata - storage
 * Nginx+ - load balancer
 * [Kakadu](http://kakadusoftware.com/downloads/) - for generating JP2s
 * [Tesseract](https://github.com/tesseract-ocr/tesseract) - OCR software
