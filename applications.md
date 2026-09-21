@@ -122,8 +122,6 @@ back.
 Some applications cross teams or organizations and are central to our work.
 
 * [Lux](https://github.com/pulibrary/lux)
-* [PULBot](https://github.com/pulibrary/pulbot) and [Heaven](https://github.com/pulibrary/heaven) - Slack bot for deployments
-  * Slack channels: #robots, #devs
 * [PUL-Solr](https://github.com/pulibrary/pul_solr) - Central repository of solr configs for our apps
   * Slack channel: #solr
 * [Princeton Ansible](https://github.com/pulibrary/princeton_ansible) -
